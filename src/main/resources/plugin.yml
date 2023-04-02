@@ -1,0 +1,10 @@
+name: ${pluginName}
+version: ${version}
+main: ${group}.${packageName}.plugin.${aliasName}Plugin
+api-version: 1.19
+depend: [ ProtocolLib ]
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:${kotlinVersion}
+  - org.jetbrains.kotlin:kotlin-reflect:${kotlinVersion}
+  - org.jetbrains.kotlinx:kotlinx-coroutines-core:${coroutineVersion}
+  - org.jetbrains.kotlinx:kotlinx-serialization-json:${serializationVersion}
