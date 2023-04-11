@@ -1,1 +1,1 @@
-# minecraft-kotlin-template
+# 한국어 채팅 플러그인
