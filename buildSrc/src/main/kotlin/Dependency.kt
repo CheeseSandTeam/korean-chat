@@ -1,6 +1,6 @@
 object Dependency {
     object Kotlin {
-        const val Version = "1.7.20-Beta"
+        const val Version = "1.8.21"
     }
 
     object PaperAPI {
